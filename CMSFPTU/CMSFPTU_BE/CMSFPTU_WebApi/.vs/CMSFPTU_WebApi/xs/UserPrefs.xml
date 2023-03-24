@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FA8B25B6-4DA8-487E-BE5D-A9B3F1E82FB6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CMSFPTU_WebApi/appsettings.json">
+    <Files>
+      <File FileName="CMSFPTU_WebApi/Startup.cs" Line="37" Column="20" />
+      <File FileName="CMSFPTU_WebApi/Program.cs" Line="16" Column="1" />
+      <File FileName="CMSFPTU_WebApi/appsettings.json" Line="4" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CMSFPTU_WebApi" expanded="True">
+            <Node name="CMSFPTU_WebApi" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CMSFPTU__WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
